@@ -29,7 +29,7 @@ SECRET_KEY = 'zq-iu-6xoy2hc3xt_evsn)p0@qy0pmm)k7u@+22z*+t827od8%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://senyah.herokuapp.com']
 
 
 # Application definition
